@@ -367,4 +367,4 @@ if (message.content.startsWith(adminprefix + 'setava')) {
 
 
 
-client.login(NTc1NzM4ODI1MDcwODcwNTU5.XNN7FQ.9zRiKlk1TqLpnpGV7wFrEKboax4);
+client.login(process.env.BOT_TOKEN);
